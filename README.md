@@ -1,4 +1,4 @@
-Hello! testing a change
+Hello!
 
 This is a simple iOS/WatchOS app that reads your heart rate and sends that data
 to an API.
