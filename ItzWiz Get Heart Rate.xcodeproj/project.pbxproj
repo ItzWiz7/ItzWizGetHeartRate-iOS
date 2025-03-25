@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01DF67E62D93505500098E72 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 01DF67E52D93504C00098E72 /* README.md */; };
 		843DA6772D7157A6004B42AD /* ItzWiz Get Heart Rate Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 843DA6762D7157A6004B42AD /* ItzWiz Get Heart Rate Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		01DF67E52D93504C00098E72 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		843DA6502D7157A4004B42AD /* ItzWiz Get Heart Rate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ItzWiz Get Heart Rate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		843DA6602D7157A6004B42AD /* ItzWiz Get Heart RateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ItzWiz Get Heart RateTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		843DA66A2D7157A6004B42AD /* ItzWiz Get Heart RateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ItzWiz Get Heart RateUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -153,6 +155,7 @@
 		843DA6472D7157A4004B42AD = {
 			isa = PBXGroup;
 			children = (
+				01DF67E52D93504C00098E72 /* README.md */,
 				843DA6522D7157A4004B42AD /* ItzWiz Get Heart Rate */,
 				843DA6632D7157A6004B42AD /* ItzWiz Get Heart RateTests */,
 				843DA66D2D7157A6004B42AD /* ItzWiz Get Heart RateUITests */,
@@ -380,6 +383,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01DF67E62D93505500098E72 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
